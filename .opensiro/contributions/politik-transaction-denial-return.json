@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "politik-transaction-denial-return",
+  "original_repository": "cordfuse/politik",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/politik/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-22-04.json"
+  ],
+  "title": "Avoid false containment violations for dot-prefix filenames",
+  "work_state": "DELIVERED",
+  "next_action": "No further work while owner_control is PAUSE; revalidate on explicit RESUME",
+  "source_revision": "c1fa7312c75599d72b187bf20088f51f5dda2247",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/politik/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/cordfuse/politik/pull/33"
+  ],
+  "last_event_id": null
+}
